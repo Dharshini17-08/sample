@@ -1,2 +1,4 @@
 Hi!
-This is test 2.txt file in github
+This is test 2.txt file in github.
+Changes was made.
+
