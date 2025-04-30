@@ -1,4 +1,3 @@
 Hi!
-This is test 2.txt file in github.
-This changes take a lots of time.
-Changes was made.
+This is test 2.txt file.
+Now we make a changes in the file.
